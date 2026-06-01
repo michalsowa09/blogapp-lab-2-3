@@ -23,7 +23,7 @@ Projekt lokalnej aplikacji blogowej stworzonej w ramach przedmiotu: Integracja S
 - **Linter (flake8):** Automatyczna kontrola stylu i składni Pythona.
 - **Unit Testing:** Zestaw testów jednostkowych uruchamianych w chmurze przy każdym pushu.
 - **Auto-Deploy:** Automatyczne wdrożenie na platformę **Render (PaaS)** po pomyślnym przejściu testów.
-- **Cache:** Optymalizacja szybkości budowania potoku CI.
+- **Cache:** Optymalizacja szybkości budowania potoku - CI.
 
 
 ## Technologie
